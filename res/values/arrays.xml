@@ -1,0 +1,8 @@
+<resources>
+	<string-array name="projects">
+		<item>Pick a project</item>
+		<item>Project 1</item>
+		<item>Project 2</item>
+		<item>Project 3</item>
+	</string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainTabs!</string>
+    <string name="app_name">iJellico</string>
+<string name="project">Pick project:</string>
+<string name="datePrompt">Enter hours for: </string>
+<string name="dateChange">Change</string>
+<string name="hours">Enter hours:</string>
+<string name="notes">Notes:</string>
+</resources>
